@@ -1,5 +1,5 @@
 
-# UAS Mata Kuliah **Sistem PEndukung Keputusan**
+# UAS Mata Kuliah **Sistem Pendukung Keputusan**
 
 Ini adalah proyek Sistem Pendukung Keputusan Pendirian Pabrik Baru menggunakan Metode **SAW (Simple Additive Weighting)** 
 
